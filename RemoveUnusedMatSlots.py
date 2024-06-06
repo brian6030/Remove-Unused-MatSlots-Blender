@@ -5,7 +5,6 @@ bl_info = {
 
 import bpy
 
-# Define the custom operator
 class OBJECT_OT_remove_unused_material_slots(bpy.types.Operator):
     bl_idname = "object.remove_unused_material_slots"
     bl_label = "Remove Unused Material Slots for Selected Objects"
