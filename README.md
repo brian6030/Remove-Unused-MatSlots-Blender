@@ -1,4 +1,4 @@
-# SelectUnusedMaterialSlots
+# RemoveUnusedMaterialSlots
  
 
 ## Remove unused material slots at once
