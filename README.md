@@ -3,7 +3,7 @@
 
 ## Remove unused material slots at once
 
-This simple add-on removes unused material slots on every selected meshes.
+This is a simple Blender add-on for you to remove unused material slots on every selected meshes.
 
 ### Getting Start
 1. Edit -> Preferences -> Add-ons -> Install...
